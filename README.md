@@ -35,8 +35,8 @@
 
 ## 📁 Featured Projects
 
-### 🍄 [Sporothrix Comparative Genomics](https://github.com/Kaizaerot/sporothrix-comparative-genomics)
-> Senior Capstone · Mahidol University
+### 🍄 [Sporothrix Comparative Genomics]()
+> Senior Project · Mahidol University
 
 Comparative genomic analysis of **52 *Sporothrix* isolates** (*S. schenckii* & *S. brasiliensis*).  
 Full pipeline: QC → Repeat Masking → Funannotate Annotation → Ortholog Clustering → Phylogenomics.
@@ -47,17 +47,17 @@ Full pipeline: QC → Repeat Masking → Funannotate Annotation → Ortholog Clu
 
 ---
 
-### 🧪 [Transcriptomics Analysis Pipeline](https://github.com/Kaizaerot/transcriptomics-pipeline)
-> Differential Gene Expression Analysis
+### 🧪 [Transcriptome Profiling — TCGA-COAD]()
+> Differential Expression Analysis · Colorectal Cancer
 
-End-to-end RNA-Seq pipeline: raw reads → alignment → DEG identification → pathway enrichment.
+Identified differentially expressed genes between Tumor Primary (TP) and Normal Tissue (NT) using TCGA-COAD data from TCGABiolinks.
 
 ![R](https://img.shields.io/badge/R-DESeq2%20%2F%20edgeR-276DC3?style=flat-square&logo=r)
 ![Status](https://img.shields.io/badge/Status-Complete-brightgreen?style=flat-square)
 
 ---
 
-### 🔁 [Nanopore RNA-Seq De Novo Isoform Pipeline](https://github.com/Kaizaerot/nanopore-rnaseq-isoform)
+### 🔁 [Nanopore RNA-Seq De Novo Isoform Pipeline]()
 > Automated long-read isoform discovery
 
 Automated pipeline for ONT RNA-Seq: basecalling → QC → alignment → de novo isoform assembly.
