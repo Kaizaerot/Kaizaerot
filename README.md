@@ -1,11 +1,9 @@
 
-## 🧬 About Me
+# 🧬 About Me
 
-I'm a undergraduate Biomedical Sciences student passionate about computational biology/biioinformatics.  
-My senior capstone research focuses on **comparative genomics of *Sporothrix* fungal pathogens** — integrating Illumina short-read assembly, Oxford Nanopore long-read sequencing, and genome annotation to understand pathogen evolution and diversity across 52 isolates.
-
-🎓 Applying to Master's programs in **Bioinformatics** at Mahidol · Chulalongkorn · KMUTT (2026)  
-📍 Bangkok, Thailand · he/him
+## Hi, I'm Jeeranuwat!  
+🎓 Undergraduate Biomedical Sciences student passionate about computational biology/biioinformatics.  
+💭 Currently learning and working in comparative geomics analysis for senior project.  
 
 ---
 
@@ -66,24 +64,3 @@ Automated pipeline for ONT RNA-Seq: basecalling → QC → alignment → de novo
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Kaizaerot&show_icons=true&theme=tokyonight&hide_border=true&hide=contribs,prs" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaizaerot&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
-
----
-
-## 📬 Connect
-
-<!-- Uncomment and fill in when ready -->
-<!-- [![Email](https://img.shields.io/badge/Email-YOUR_EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL) -->
-<!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Jeeranuwat-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN) -->
-
-<br/>
-
-<!-- FOOTER WAVE -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2ea8c2,100:0d1117&height=100&section=footer" />
-</div>
