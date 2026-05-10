@@ -33,8 +33,8 @@
 ![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ---
 
-## 📁 Featured Projects
-
+## 📁 Featured Projects 
+*Did not attach any links yet.*
 ### 🍄 [Sporothrix Comparative Genomics]()
 > Senior Project · Mahidol University
 
