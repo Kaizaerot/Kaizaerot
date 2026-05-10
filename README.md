@@ -3,9 +3,11 @@
 
 ## Hi, I'm Jeeranuwat!  
 
-🎓 Undergraduate Biomedical Sciences student passionate about computational biology/bioinformatics.  
-📝 Studying in R Python and Bash.
-💭 Currently learning and working in comparative geomics analysis for senior project.  
+🎓 Undergraduate Biomedical Sciences student passionate about computational biology/bioinformatics.
+
+💭 Currently learning R, Python, and Bash for bioinformatics applications.
+
+📝 Working on comparative genomics analysis as my senior capstone project.  
 
 ---
 
