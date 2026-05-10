@@ -2,7 +2,9 @@
 # 🧬 About Me
 
 ## Hi, I'm Jeeranuwat!  
-🎓 Undergraduate Biomedical Sciences student passionate about computational biology/biioinformatics.  
+
+🎓 Undergraduate Biomedical Sciences student passionate about computational biology/bioinformatics.  
+📝 Studying in R Python and Bash.
 💭 Currently learning and working in comparative geomics analysis for senior project.  
 
 ---
@@ -27,7 +29,8 @@
 
 ![Linux](https://img.shields.io/badge/Linux-WSL2-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
+![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=rstudioide&logoColor=white)
+![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ---
 
 ## 📁 Featured Projects
