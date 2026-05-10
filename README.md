@@ -40,10 +40,9 @@
 ### 🍄 [Sporothrix Comparative Genomics]()
 > Senior Project · Mahidol University
 
-Comparative genomic analysis of **52 *Sporothrix* isolates** (*S. schenckii*).  
+Comparative genomic analysis of *Sporothrix isolates* (*S. schenckii*).  
 
 ![BUSCO](https://img.shields.io/badge/BUSCO->95%25-brightgreen?style=flat-square)
-![Samples](https://img.shields.io/badge/Isolates-52-blue?style=flat-square)
 ![Status](https://img.shields.io/badge/Status-In%20Progress-yellow?style=flat-square)
 
 ---
