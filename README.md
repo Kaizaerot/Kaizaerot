@@ -40,8 +40,7 @@
 ### 🍄 [Sporothrix Comparative Genomics]()
 > Senior Project · Mahidol University
 
-Comparative genomic analysis of **52 *Sporothrix* isolates** (*S. schenckii* & *S. brasiliensis*).  
-Full pipeline: QC → Repeat Masking → Funannotate Annotation → Ortholog Clustering → Phylogenomics.
+Comparative genomic analysis of **52 *Sporothrix* isolates** (*S. schenckii*).  
 
 ![BUSCO](https://img.shields.io/badge/BUSCO->95%25-brightgreen?style=flat-square)
 ![Samples](https://img.shields.io/badge/Isolates-52-blue?style=flat-square)
