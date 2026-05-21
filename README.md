@@ -1,7 +1,7 @@
 
 # 🧬 About Me
 
-## Hi, I'm Jeeranuwat!  
+## Hi, I'm Title!  
 
 🎓 Undergraduate Biomedical Sciences student passionate about computational biology/bioinformatics.
 
